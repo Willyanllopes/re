@@ -1,0 +1,24 @@
+    /*
+    list-style: none;
+    margin: 5px 5px 8px 2px;
+    padding: auto;
+    border: 5px none #fefefe;
+    */
+    
+    height: 100%;
+    width: 423px;
+    
+    left: 2px;
+    position: absolute;
+    float: left;
+    display: flex;
+    margin: 143px 903px;
+
+    /*
+    margin-top: auto;
+    display: inline-block;
+    margin-bottom: auto;
+    /*height: 10%;
+    width: 10%;
+    */
+   
